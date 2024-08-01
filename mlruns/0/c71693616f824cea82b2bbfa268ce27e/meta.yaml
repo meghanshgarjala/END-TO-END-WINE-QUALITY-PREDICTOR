@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/End_to_end_Wine_Quality_Prediction/mlruns/0/c71693616f824cea82b2bbfa268ce27e/artifacts
+end_time: 1722540021249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c71693616f824cea82b2bbfa268ce27e
+run_name: judicious-chimp-907
+run_uuid: c71693616f824cea82b2bbfa268ce27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722540014957
+status: 3
+tags: []
+user_id: User

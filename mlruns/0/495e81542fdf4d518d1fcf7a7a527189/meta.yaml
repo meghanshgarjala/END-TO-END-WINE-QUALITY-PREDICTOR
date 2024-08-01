@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/End_to_end_Wine_Quality_Prediction/mlruns/0/495e81542fdf4d518d1fcf7a7a527189/artifacts
+end_time: 1722539840114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 495e81542fdf4d518d1fcf7a7a527189
+run_name: dazzling-bee-221
+run_uuid: 495e81542fdf4d518d1fcf7a7a527189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722539833928
+status: 3
+tags: []
+user_id: User
