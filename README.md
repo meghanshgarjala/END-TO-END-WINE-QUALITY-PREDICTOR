@@ -56,6 +56,7 @@ The following machine learning algorithms were implemented and compared:
 - **R-squared (R²):** Assessed the proportion of variance in wine quality explained by the model.
 - **Cross-Validation:** Used K-fold cross-validation to ensure model generalization and avoid overfitting.
 - **Feature Importance:** Evaluated the influence of each feature on the model’s predictions.
+  
 
 ## Results
 
@@ -99,6 +100,6 @@ The following machine learning algorithms were implemented and compared:
 2. **Install all the required packages:**
    ```bash
    pip install -r requirements.txt
- 3.**Run the jupyter notebook:**
+3.**Run the jupyter notebook:**
    ```bash
    jupyter notebook
